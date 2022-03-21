@@ -1,0 +1,167 @@
+body{
+  font-family: "verdana", serif;
+  background: #8CA8CF;
+  overflow:auto;
+  border:solid 10px #8CA8CF;
+  width: 100vw;
+  height: 20vh;
+}
+
+.nowrap {white-space: nowrap;}
+
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+
+}
+
+h4{
+
+}
+
+h5{
+
+}
+
+h6{
+
+}
+
+.dossier{
+  background-color: #8CA8CF;
+  overflow:auto;
+  border:solid 10px #8CA8CF;
+  color: white;
+}
+
+.dos{
+  background-color: #586C87;
+  color: white;
+}
+
+.gene{
+  background-color: #8CA8CF;
+  overflow:auto;
+  border:solid 10px #8CA8CF;
+  color: white;
+}
+
+.gen{
+  background-color: #586C87;
+  color: white;
+}
+
+.droite, .gauche {
+  display: inline-block;
+  vertical-align: top;
+}
+.gauche {
+  float: left;
+}
+
+.droite {
+  float:  right;
+}
+
+.menu {
+  float: right;
+  width: 60px;
+  height:187px;
+  border-top:solid 5px #ffffff;
+  border-right:solid 5px #ffffff;
+  border-left: none;
+  text-align: center;
+  writing-mode:vertical-lr;
+
+}
+
+.recherche{
+  background-color: #8CA8CF;
+  width:290px;
+  height: 762px;
+  border:solid 5px #ffffff;
+}
+
+.gestionnaire{
+  background-color: #FCA0B4;
+  border-color: #C481B2;
+  color: #8F5B66;
+}
+
+.technique{
+  background-color: #EDAA4B;
+  border-color: #F4C88D;
+  color: #876E52;
+}
+
+.administratif{
+  background-color: #66a79f;
+  border-color: #A6D8BE;
+  color: #0E5C4F;
+}
+
+.gest{
+  background-color: #914963;
+  color: white;
+}
+
+.admin{
+  background-color: #7ebfb7;
+  color: #0E5C4A;
+
+}
+.preop{
+  background-color: #FFD09A;
+  color: #876E52;
+}
+
+.AMO{
+  background-color: #CF9673;
+  color: #4A2F0A;
+}
+
+.MOE{
+  background-color: #87764F;
+  color: white;
+}
+
+.center{
+  display: block;
+  margin: auto;
+}
+
+.vacation{
+  background-color: #D6A539;
+  color: #6B531D;
+}
+
+.rendu{
+  display: none;
+}
+
+.actif{
+  display: block;
+}
+
+.basetechnique{
+  background-color: #EDAA4B;
+  border-color: #F4C88D;
+  color: #876E52;
+}
+
+main {
+  margin-top: 50px;
+}
+
